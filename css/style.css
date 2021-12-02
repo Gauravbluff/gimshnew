@@ -404,3 +404,5 @@
 .login-register-form .single-form .main-btn { height: 60px;    line-height: 60px;    padding: 0 30px;    font-size: 16px;    display: block;    width: 100%;    text-decoration: none;}
 .login-register-form .single-form .forget a {font-size: 12px;    font-weight: 400;    color: #151515;    transition: all .3s linear; text-decoration: none;}
 
+.contact-no {    font-family: 'Exo';    font-size: 13px;    font-weight: 500;    background: #ffc63e;    padding: 10px;    margin-top: -8px;    border-radius: 0;    box-shadow: 0 0 4px #bbb}
+.mob-ni {    display: none;}
